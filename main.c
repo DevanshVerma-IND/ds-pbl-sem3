@@ -16,7 +16,7 @@
 //////////////////////////////////////////////
 #define HOST "127.0.0.1"            //////////
 #define USER "root"                 //////////
-#define PASS "<ASDZXC>!!@sql123"    //////////
+#define PASS "xxxxxxxxxxxxxxxxx"    //////////
 #define DB   "team_management"      //////////
 //////////////////////////////////////////////
 
